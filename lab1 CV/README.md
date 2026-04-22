@@ -26,8 +26,8 @@
 ## Установка
 
 ```powershell
-git clone https://github.com/Goida88/CS
-cd CS
+git clone https://github.com/Goida88/CS.git
+cd "CS/lab1 CV"
 
 python -m venv .venv
 .venv\Scripts\Activate.ps1
